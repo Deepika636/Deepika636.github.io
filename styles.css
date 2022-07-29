@@ -3,7 +3,7 @@ body{
 
 }
 
-img{
+.imgOne{
   background-color: #121417;
   border-radius:20px;
   padding: 10px 10px;
@@ -66,3 +66,22 @@ h2{
 .attribution{
   position: absolute;
 }
+#rate{
+  color:hsl(25, 97%, 53%);
+  border-radius: 20px;
+  border: none;
+  text-align:center;
+  background-color:#121417 ;
+
+
+}
+
+.sec{
+  text-align: center;
+
+}
+.secImg{
+  margin-left:75px;
+  margin-bottom: 30px;
+}
+
